@@ -1,0 +1,9 @@
+
+.images {
+   width: 250px;
+    height: 280px;
+    /* display: inline-block; */
+    display: inline-flex;
+   margin: 10px;
+}
+
